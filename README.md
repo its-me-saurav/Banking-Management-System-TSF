@@ -1,6 +1,6 @@
 # Banking-Management-System-TSF
 
-The sparrks Foundation internship project "Banking Management System"
+The Sparks Foundation internship project "Banking Management System"
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users).
 
 Stack used -
